@@ -2,4 +2,10 @@
 /frontend/.env
 /node_modules
 /frontend/node_modules
-
+/coverage
+/build
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
