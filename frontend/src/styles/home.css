@@ -1,0 +1,18 @@
+.policy .col-lg-4 {
+  text-align: center;
+}
+
+.policy {
+  margin-top: 4vw;
+}
+
+.policy h4 {
+  color: #361304;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.policy img {
+  height: 4vw;
+}
