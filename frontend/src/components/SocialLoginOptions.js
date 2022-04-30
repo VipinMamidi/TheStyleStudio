@@ -32,7 +32,7 @@ const SocialLoginOptions = () => {
           justifyContent: "space-around",
         }}
       >
-        <a href={`${baseURL}api/auth/google`}>
+        <a href={`${baseURL}/api/auth/google`}>
           <Image
             rounded
             style={{
@@ -43,7 +43,7 @@ const SocialLoginOptions = () => {
             src={googleLogo}
           />
         </a>
-        <a href={`${baseURL}api/auth/linkedin`}>
+        <a href={`${baseURL}/api/auth/linkedin`}>
           <Image
             rounded
             style={{
