@@ -168,7 +168,7 @@ passport.use(
 		{
 			clientID: process.env.LINKEDIN_CLIENT_ID,
 			clientSecret: process.env.LINKEDIN_CLIENT_SECRET,
-			callbackURL: `$https://thestylestudio.herokuapp.com/api/auth/linkedin/redirect`,
+			callbackURL: `${backendURL}/api/auth/linkedin/redirect`,
 			scope: ['r_emailaddress', 'r_liteprofile'],
 			state: true,
 		},
