@@ -1,9 +1,8 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/42696800/147324216-b7c6f919-e9c4-4e3a-9411-4ffabb3a35d2.png" alt="logo" width="30" height="30" />
 The Style Studio
 	
 </h1>
-An installable e-commerce app built using the MERN stack, Redux.js, Bootstrap 5 and AWS's S3 Storage. The user authentication includes 4 social login options(Google, Github, Twitter, Linkedin).
+A shopping website built using the MERN stack, Redux.js, Bootstrap 5 and AWS's S3 Storage. The user authentication includes 2 social login options(Google, Linkedin).
 <br/>
 The app also implements an email verification system for users registering using an email and password. Stripe and Paypal payment gateways are implemented to provide payment options, and the app also includes an admin panel to keep track of all products, orders and users. This is also a PWA
 
@@ -17,7 +16,7 @@ The app also implements an email verification system for users registering using
 
 ## Demo
 
-The app has been hosted on heroku [here](https://kosells.herokuapp.com/). (You might have to wait for a few seconds for the heroku site to respond)
+The app has been hosted on heroku [here](https://thestylestudio.herokuapp.com/)
 
 ## Info
 
