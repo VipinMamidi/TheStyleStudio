@@ -43,7 +43,7 @@ const SocialLoginOptions = () => {
             src={googleLogo}
           />
         </a>
-        <a href={`${baseURL}api/auth/linkedin`}>
+        <a href={`https://thestylestudio.herokuapp.com/api/auth/linkedin`}>
           <Image
             rounded
             style={{
